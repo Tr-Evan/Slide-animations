@@ -1,2 +1,1 @@
-# Slide-animations
-Created with CodeSandbox
+https://github.com/codrops/SlideshowAnimations.git
